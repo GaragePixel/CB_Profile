@@ -13,7 +13,7 @@ List of Functionality
 The HTML file implements a complete, multi-section user bio page.
 Key functionalities and sections include: 
 - Custom Layout Engine:
-- A sophisticated, multi-column layout is achieved primarily through nested unordered lists (<ul>) and extensive inline CSS. This creates the appearance of a complex application window.
+- A sophisticated, multi-column layout is achieved primarily through nested unordered lists < ul > and extensive inline CSS. This creates the appearance of a complex application window.
 - Profile Section: Displays user information, a profile picture, and a "Fan Club" button.
 - Social Network Section: A highly organized grid of social media links, categorized into "Art", "Net", "Hosts", "Blogs", ' "IM", and "Dev". Each category has its own set of icon-based links.
 - Trophies Section: Showcases achievements or milestones with images and descriptive text.
