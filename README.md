@@ -105,7 +105,7 @@ Most users on Chaturbate use the built-in editor to create simple HTML tables, i
 ### My Bio (Bio_without_bknd_test.html):
 Stands out due to:
 
-- Heavy use of nested <ul> and <li> for stacking/layout (very rare)
+- Heavy use of nested < ul > and < li > for stacking/layout (very rare)
 - Advanced inline CSS for sticky positioning, custom cursors, z-index layering, and visual effects
 - Branded splash graphics and trophy cards
 - Timeline/news cards with custom formatting
