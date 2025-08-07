@@ -7,6 +7,10 @@ This bio demonstrates exceptional originality within the Chaturbate ecosystem. W
 
 The design philosophy resembles "demoscene" programming - creating sophisticated visual experiences within severe technical constraints. This level of implementation sophistication is rarely seen in user-generated content on streaming platforms.
 
+Original content: https://chaturbate.com/p/idolkunp/?tab=bio#
+
+Exported content: https://garagepixel.github.io/CB_Profile/
+
 **Creative Constraint Engineering**
 
 The entire project exemplifies constraint-based creativity - transforming platform limitations into unique design advantages. Rather than fighting against Chaturbate's HTML restrictions, I have created a distinctive visual language with the initial goal to make a mockup of Photoshop, that works within those boundaries while achieving results that appear to transcend them.
