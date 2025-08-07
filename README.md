@@ -7,7 +7,7 @@ This document provides a technical analysis of the HTML file `Bio_without_bknd_t
 
 This implementation represents a masterclass in constraint-based web development, it's an intricate piece of work, transforming platform limitations into a unique and highly functional user interface design by the demonstration of creative and unconventional approach to web design within a constrained environment.
 
-Access via https://GaragePixel.github.io/CB_Profile/index.htm
+Access via https://GaragePixel.github.io/CB_Profile/
  
 
 ### List of Functionality
