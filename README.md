@@ -28,7 +28,7 @@ The HTML file implements a complete, multi-section user bio page. Key functional
 *   **Custom Layout Engine:** A sophisticated, multi-column, grid-based layout layout primarily achieved through nested unordered lists (`<ul>`) with precise positioning and transforms using extensive inline CSS. This creates the appearance of a complex application window.
 *   **Profile Section:** Profile picture, fan club integration, job/career information display with custom button styling and a "Fan Club" button.
 *   **News Timeline:** Chronological feed with date-based organization and rich content including embedded images and styled text
-* - **Dynamic Splash Area/News Section:** Layered image system with loading animations and multiple background states featuring a large splash image and a chronological news feed with dated entries.
+*   **Dynamic Splash Area/News Section:** Layered image system with loading animations and multiple background states featuring a large splash image and a chronological news feed with dated entries.
 *   **Categorized Social Network Section:** A highly organized grid of social media links, categorized into six distinct categories as "Art", "Net", "Hosts", "Blogs", "IM", and "Dev". Each category has its own set of icon links demonstrating original technique in Chaturbate about hover states using custom cursor URLs
 *   **Trophies Section:** Showcases achievements or milestones with cards featuring images and chronological descriptions in a expandable display.
 *   **Heavy Customization:** The entire design is styled to look like a native desktop application or a custom UI, rather than a standard webpage. This includes custom title bars, buttons, and separators.
